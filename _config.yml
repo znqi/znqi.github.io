@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zening Qi / Personal Homepage"
+title                    : "Z.Qi / Physics and Life "
 title_separator          : "-"
 name                     : &name "Zening Qi"
-description              : &description "a physics undergraduate from Beijing Normal University"
+description              : &description "a physics students from Beijing Normal University"
 url                      : https://znqi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "znqi/znqi.github.io"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "avatar.png"
   name             : "Zening Qi"
-  bio              : "physics undergraduate"
+  bio              : "Physics"
   location         : "Beijing, China"
   employer         : "Beijing Normal University"
   email            : "zn.qi@outlook.com" 
