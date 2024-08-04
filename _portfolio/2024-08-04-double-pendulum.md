@@ -1,7 +1,7 @@
 ---
 title: '双摆运动的数值解法'
 date: 2024-8-4
-permalink: /2024/08/04/doublependulum
+permalink: /2024/08/04/double/pendulum
 tags:
   - academics
   - physics
