@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Zening Qi’s personal homepage!"
+title: "Welcome to znqi’s personal homepage!"
 author_profile: true
 redirect_from: 
   - /about/
