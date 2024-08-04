@@ -25,6 +25,8 @@ tags:
 
 下面开始推导双摆的运动方程:
 
+![双摆](/images/WechatIMG445.jpeg)  
+
 设广义坐标为 $\theta_1$ 和 $\theta_2$ ,则小球1的x,y坐标为:  
 
 
