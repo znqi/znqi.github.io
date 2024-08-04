@@ -204,7 +204,7 @@ ani.save('双摆.mp4',writer='ffmpeg')
 #展示动画
 plt.show()
 ```
-
+<video src="/images/双摆.mp4"></video>
 ## 结论与展望
 
 ### 结论
