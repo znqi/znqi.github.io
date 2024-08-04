@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Z.Qi / Physics and Life !"
+title: "Welcome to Z.Qi's personal homepage !"
 author_profile: true
 redirect_from: 
   - /about/
