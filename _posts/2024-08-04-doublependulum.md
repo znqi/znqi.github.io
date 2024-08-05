@@ -92,12 +92,14 @@ $$\begin{cases}
 $$A=\begin{pmatrix}
     (m_1+m_2)l_1 & m_2l_2\cos(\theta_1-\theta_2) \\
     l_1\cos(\theta_1-\theta_2) & l_2
-\end{pmatrix}  \\
-\Theta=\begin{pmatrix}
+\end{pmatrix}$$  
+
+$$\Theta=\begin{pmatrix}
     \ddot{\theta_1} \\
     \ddot{\theta_2}
-\end{pmatrix} \\
-b=\begin{pmatrix}
+\end{pmatrix}$$  
+
+$$b=\begin{pmatrix}
     (m_1+m_2)g\cos\theta_1-m_2l_2\sin(\theta_1-\theta_2)\dot{\theta_2}^2 \\
     l_1\sin(\theta_1-\theta_2)\dot{\theta_1}^2+g\cos{\theta_2}
 \end{pmatrix}$$
